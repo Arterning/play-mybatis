@@ -1,6 +1,6 @@
 # MyBatis-Plus-Example
 
-Spring Boot 整合 MyBatis Plus 实例，持续更新！！！
+Spring Boot 整合 MyBatis Plus 实例
 
 ## 代码生成器
 
